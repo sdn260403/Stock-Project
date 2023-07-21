@@ -1,0 +1,8 @@
+tqdm
+tabulate
+pandas
+yfinance
+datetime
+tk
+matplotlib
+pillow
