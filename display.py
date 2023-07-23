@@ -39,7 +39,7 @@ class display:
       
         # Inserting the items and their features to the
         # columns built
-        for i in range():
+        for i in range(len(data[1])):
                 treev.insert("", 'end', text ="",values =data[1][i])
         
         treev.pack(fill='both')
